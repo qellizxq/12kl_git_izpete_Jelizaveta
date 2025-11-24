@@ -8,9 +8,9 @@ GitHub ir tiešsaistes platforma, kur Git repozitorijus var uzglabāt mākonī, 
 
 2. Kādas trīs svarīgas komandas vai darbības tika demonstrētas videoklipā?
 
-1. git add – pievieno izmaiņas sagatavošanas zonai (staging area).
-2. git commit – saglabā izmaiņas versiju vēsturē ar aprakstu.
-3. git push – nosūta commit uz GitHub repozitoriju.
+git add – pievieno izmaiņas sagatavošanas zonai (staging area).
+git commit – saglabā izmaiņas versiju vēsturē ar aprakstu.
+git push – nosūta commit uz GitHub repozitoriju.
 
 3. Kāpēc ir svarīgi dokumentēt projekta izmaiņas commit ziņojumos?
 • Tas palīdz saprast, kas mainīts un kāpēc.
